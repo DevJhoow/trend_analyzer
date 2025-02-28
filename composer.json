@@ -1,0 +1,16 @@
+{
+    "name": "seu-usuario/analisador-tendencias",
+    "description": "Projeto de Analisador de Tendências de Marketing",
+    "autoload": {
+        "psr-4": {
+            "App\\": "app/"
+        }
+    },
+    "require": {
+        "php": "^7.4",
+        "ext-pdo": "*"
+    },
+    "config": {
+        "optimize-autoloader": true
+    }
+}
