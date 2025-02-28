@@ -32,8 +32,8 @@ O objetivo é demonstrar como um sistema de análise de tendências pode funcion
 ## 📌 Como Usar
 1️⃣ Clone este repositório:
  bash
- git clone https://github.com/seu-usuario/seu-repositorio.git
-2️⃣ Abra o arquivo `index.html` no navegador\
+ git clone [https://https://github.com/DevJhoow/trend_analyzer
+2️⃣ Abra http://localhost/public/ no navegador!
 3️⃣ Insira uma palavra-chave no campo de entrada e clique em "Enviar"\
 4️⃣ Veja a palavra adicionada à lista e o gráfico de tendência atualizado automaticamente
 
